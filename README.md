@@ -17,6 +17,6 @@ This project demonstrates how **machine learning** can be applied to monitor and
 The application was deployed using **Streamlit** for easy access and demonstration.
 
 ## 👨‍💻 Author
-**Akimu Odunola Hussain Adegbite**  
+**Akimu Odunola & Hussain Adegbite**  
 Project completed for the **SPE FUTMINNA Chapter (2024) Competition**  
 
