@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-import numpy as numpy
+import numpy as np
 import pandas as pd
 
 
@@ -104,6 +104,7 @@ def show_prediction ():
         predict_CO2 = regressor.predict(prediction_data)[0]
         st.subheader(f"The Predicted Emission Of CO2 Is {predict_CO2:.3f}")
     #return predict_CO2   
+
 
 
 
